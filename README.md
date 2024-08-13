@@ -16,7 +16,7 @@ This is a simple Todo Management Application built using React and styled with T
 
 Here is a screenshot of the Todo Management Application:
 
-![Todo Management Application Screenshot](./assets/image.png)
+![Todo Management Application Screenshot](./src/assets/image.png)
 
 ## Project Structure
 
