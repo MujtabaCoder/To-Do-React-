@@ -12,6 +12,12 @@ This is a simple Todo Management Application built using React and styled with T
 - **Delete Todo**: Unwanted todos can be removed.
 - **Toggle Complete**: Users can mark todos as complete or incomplete.
 
+## Screenshot
+
+Here is a screenshot of the Todo Management Application:
+
+![Todo Management Application Screenshot](./assets/image.png)
+
 ## Project Structure
 
 The project is structured as follows:
